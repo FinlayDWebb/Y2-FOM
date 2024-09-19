@@ -16,3 +16,7 @@ When dicussing RSS, we talk about minimising the RSS so that our regression fit 
 Currently I don't follow what the "design matrix" means, although I understand it can be used to solve for Beta.
 
 Should follow the theory again, perhaps watch a video to better understand.
+
+Look into the book 'Introduction into statistical learning', open source book.
+
+-- Question to ask: why not always use a 100-degree (arbitrary number) polynomial if we needn't consider the speed of computation.
